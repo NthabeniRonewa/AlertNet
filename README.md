@@ -7,7 +7,3 @@ Backend:
 Node.js with Express → handles API requests, SOS alerts, and reporting system.
 Emergency Features:
 Google Maps API → location sharing for SOS alert
-
-Authentication & Security:
-JWT / Firebase Auth → secure login and anonymous reporting.
-End-to-End Encryption → protects victim and witness data.
